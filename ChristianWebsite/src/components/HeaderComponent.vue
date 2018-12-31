@@ -16,7 +16,7 @@
       </div>
 
       <div class = "statementPurpose">
-        <h2> Awesome statement that sets the hook. </h2>
+        <h2> AWESOME STATEMENT THAT SETS THE HOOK </h2>
       </div>
 
       <div class = "navigationBar">
