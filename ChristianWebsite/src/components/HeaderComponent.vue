@@ -12,7 +12,7 @@
       </div>
 
       <div class = "socialMedia">
-        <p> social Media stuff goes here</p>
+        <p> Social Media Stuff Goes Here</p>
       </div>
 
       <div class = "statementPurpose">
